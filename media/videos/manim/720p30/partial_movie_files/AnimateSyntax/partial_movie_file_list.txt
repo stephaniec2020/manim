@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/stephaniechoi/Documents/manim/media/videos/manim/720p30/partial_movie_files/AnimateSyntax/2016333726_4254689993_223132457.mp4'
+file 'file:/Users/stephaniechoi/Documents/manim/media/videos/manim/720p30/partial_movie_files/AnimateSyntax/543634251_339915387_470997860.mp4'
+file 'file:/Users/stephaniechoi/Documents/manim/media/videos/manim/720p30/partial_movie_files/AnimateSyntax/543634251_2264959752_470997860.mp4'
+file 'file:/Users/stephaniechoi/Documents/manim/media/videos/manim/720p30/partial_movie_files/AnimateSyntax/543634251_3393979097_470997860.mp4'
